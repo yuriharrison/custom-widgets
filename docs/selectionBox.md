@@ -1,4 +1,4 @@
-<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/custom-widgets/selectionBox.py#L58)</span>
+<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/customWidgets/selectionBox.py#L58)</span>
 ## SelectionBox
 
 ```python
@@ -191,7 +191,7 @@ Reset the index variables and unselect all items.
 
 ----
 
-<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/custom-widgets/selectionBox.py#L38)</span>
+<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/customWidgets/selectionBox.py#L38)</span>
 ## SelectionBoxItem
 
 ```python
