@@ -1,4 +1,4 @@
-<span style="float:right;">[[source code]](https://github.com/yuriharrison/customWidgets/blob/master/customWidgets/confirmationPopUp.py#L46)</span>
+<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/custom-widgets/confirmationPopUp.py#L46)</span>
 ## ConfirmationPopup
 
 ```python
@@ -79,7 +79,7 @@ if __name__ == "__main__":
 
 ----
 
-<span style="float:right;">[[source code]](https://github.com/yuriharrison/customWidgets/blob/master/customWidgets/confirmationPopUp.py#L122)</span>
+<span style="float:right;">[[source code]](https://github.com/yuriharrison/custom-widgets/blob/master/custom-widgets/confirmationPopUp.py#L122)</span>
 ## ConfirmationPopupDecorator
 
 ```python
