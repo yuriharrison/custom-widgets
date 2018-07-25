@@ -1,8 +1,11 @@
 # Custom Widgets for Kivy
 
-This project have useful custom widgets made for the [Kivy framework](https://kivy.org)
+This project have useful custom widgets made for the [Kivy framework](https://kivy.org).
+
 
 #### List of widgets
+
+All widgets added until now are authorial.
 
 - Selection Box
     - [Documentation & Examples](docs/selectionBox.md)
